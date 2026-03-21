@@ -1,6 +1,6 @@
 [project]
 name = "gemfyi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Gemstone and mineralogy reference API client — gemfyi.com"
 readme = "README.md"
 license = "MIT"
@@ -40,6 +40,7 @@ all = ["gemfyi[api,cli,mcp]"]
 
 [project.scripts]
 gemfyi = "gemfyi.cli:app"
+gemfyi-mcp = "gemfyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 gemfyi = "gemfyi.mcp_server:mcp"
