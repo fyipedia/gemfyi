@@ -1,6 +1,6 @@
 [project]
 name = "gemfyi"
-version = "0.1.1"
+version = "0.1.2"
 description = "Gemstone and mineralogy reference API client — gemfyi.com"
 readme = "README.md"
 license = "MIT"
