@@ -343,6 +343,15 @@ Embed [GemFYI](https://gemfyi.com) widgets on any website with [gemfyi-embed](ht
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.gemfyi.com)
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://gemfyi.com](https://gemfyi.com):
+- [Homepage](https://gemfyi.com)
+- [Developer documentation](https://gemfyi.com/developers/)
+- [Sitemap (full content index)](https://gemfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
